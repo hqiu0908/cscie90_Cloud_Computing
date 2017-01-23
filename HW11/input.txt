@@ -1,0 +1,28 @@
+Cloud computing, also known as on-demand computing, is a kind of internet-based
+computing, where shared resources and information are provided to computers and
+other devices on-demand. It is a model for enabling ubiquitous, on-demand access
+to a shared pool of configurable computing resources.[1][2] Cloud computing and
+storage solutions provide users and enterprises with various capabilities to
+store and process their data in third-party data centers.[3] It relies on
+sharing of resources to achieve coherence and economies of scale, similar to a
+utility (like the electricity grid) over a network.[4] At the foundation of
+cloud computing is the broader concept of converged infrastructure and shared
+services.
+
+Cloud computing, or in simpler shorthand just "the cloud", also focuses on
+maximizing the effectiveness of the shared resources. Cloud resources are
+usually not only shared by multiple users but are also dynamically reallocated
+per demand. This can work for allocating resources to users. For example, a
+cloud computer facility that serves European users during European business
+hours with a specific application (e.g., email) may reallocate the same
+resources to serve North American users during North America's business hours
+with a different application (e.g., a web server). This approach helps maximize
+the use of computing power while reducing the overall cost of resources by using
+less power, air conditioning, rack space, etc. to maintain the system. With
+cloud computing, multiple users can access a single server to retrieve and
+update their data without purchasing licenses for different applications.
+
+The term "moving to cloud" also refers to an organization moving away from a
+traditional CAPEX model (buy the dedicated hardware and depreciate it over a
+period of time) to the OPEX model (use a shared cloud infrastructure and pay as
+one uses it).[dubious - discuss]
